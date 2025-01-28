@@ -8,3 +8,8 @@ body {
   justify-content: center;
   align-items: center;
 }
+video{
+  height:90vh;
+  width:90vw;
+  position:fiex;
+}
