@@ -8,6 +8,9 @@ body {
   justify-content: center;
   align-items: center;
   margin-bottom:200vh;
+  margin-left:200vh;
+  margin-right:200vh;
+
 }
 video{
   height:90vh;
