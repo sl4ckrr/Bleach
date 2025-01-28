@@ -7,9 +7,10 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  margin-bottom:200vh;
-  margin-left:200vh;
-  margin-right:200vh;
+  margin-top:120vh;
+  margin-bottom:120vh;
+  margin-left:400vh;
+  margin-right:400vh;
 
 }
 video{
