@@ -7,10 +7,6 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  margin-top:120vh;
-  margin-bottom:120vh;
-  margin-left:400vh;
-  margin-right:400vh;
 }
 video{
   height:90vh;
