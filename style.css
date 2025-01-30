@@ -16,6 +16,6 @@ body {
 video{
   height:80vh;
   width:80vw;
-  position:fiex;
+  position:absolute;
   align-items:center;
 }
